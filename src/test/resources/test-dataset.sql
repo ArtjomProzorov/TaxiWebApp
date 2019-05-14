@@ -1,0 +1,12 @@
+-- INSERT INTO Role ("id",email, username, mobile)
+-- VALUES (1, 'Artjom', 'Boooma', '124355353')
+--
+-- INSERT INTO Role ("id",email, username, mobile)
+-- VALUES (2, 'Artjom', 'Boooma', '124355353')
+--
+-- INSERT INTO Role ("id",email, username, mobile)
+-- VALUES (3, 'Artjom', 'Boooma', '124355353')
+--
+--
+-- INSERT INTO DRIVER VALUES(1,'BMW','FSKO3F','BMW-23','red','pic','driver','dsdsd');
+--
